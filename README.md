@@ -31,7 +31,7 @@ Designed for businesses looking to streamline product catalog management with ea
 *Prodexa dashboard showing product list with category filters*
 
 ### All Demo Images 
-![image](https://github.com/user-attachments/assets/ca97ee27-823a-4678-a08f-b98698f6b38f
+![image](https://github.com/user-attachments/assets/ca97ee27-823a-4678-a08f-b98698f6b38f)
 ![image](https://github.com/user-attachments/assets/f4b165f3-a1d9-418a-8056-50cdc096e75c)
 ![image](https://github.com/user-attachments/assets/a8394e0f-b1ca-4171-998d-bb6d93c265f2)
 ![image](https://github.com/user-attachments/assets/db4a9181-8c7b-46da-a7b4-7aa054e50443)
